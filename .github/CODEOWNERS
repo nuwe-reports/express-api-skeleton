@@ -1,0 +1,4 @@
+jest.config.json                         @team-nuwe
+sonar-project.properties                 @team-nuwe
+/.github/**                              @team-nuwe
+/tests/**                                @team-nuwe
