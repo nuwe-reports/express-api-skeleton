@@ -1,24 +1,29 @@
-<img align="left"  width="150" height="150" src=".github/rviewer_logo--dark.png" />
-
-## Rviewer skeleton: Express
-
-[![Twitter](https://img.shields.io/badge/rviewer__-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/Rviewer_/)
-
-[![Rviewer Discord](https://badgen.net/discord/members/VVN4ur8FaQ)](https://discord.gg/VVN4ur8FaQ)
+<div align="center">
+<img align="center"  width="auto" height="auto" src="https://nuwe.io/images/Group-3-3.png" />
 <br/>
+
+<div id="user-content-toc">
+  <ul>
+    <summary><h1 style="display: inline-block;">Express API Skeleton</h1></summary>
+  </ul>
+</div>
+
+</div>
+
+## Express API skeleton
 
 This repository is a Backend Javascript & Typescript skeleton with Express, designed for quickly getting started
 developing an API. Check the [Getting Started](#getting-started) for full details.
 
 ## Technologies
 
-* [Typescript 4.7](https://www.typescriptlang.org/docs/handbook/release-notes/typescript-4-4.html)
-* [Express 4.18](https://expressjs.com/)
-* [Yarn](https://yarnpkg.com/)
-* [Supertest](https://github.com/visionmedia/supertest#readme)
-* [JEST](https://jestjs.io/es-ES/)
-* [Docker](https://www.docker.com/)
-* [Make](https://www.gnu.org/software/make/manual/make.html)
+- [Typescript 4.7](https://www.typescriptlang.org/docs/handbook/release-notes/typescript-4-4.html)
+- [Express 4.18](https://expressjs.com/)
+- [Yarn](https://yarnpkg.com/)
+- [Supertest](https://github.com/visionmedia/supertest#readme)
+- [JEST](https://jestjs.io/es-ES/)
+- [Docker](https://www.docker.com/)
+- [Make](https://www.gnu.org/software/make/manual/make.html)
 
 ## Getting Started
 
@@ -63,14 +68,8 @@ dependency or framework.
 ## Support
 
 If you are having problems or need anything else, please let us know by
-[raising a new issue](https://github.com/Rviewer-Challenges/skeleton-express/issues/new/choose).
+[raising a new issue](https://github.com/nuwe-reports/express-api-skeleton/issues/new/choose).
 
 ## License
 
 This project is licensed with the [MIT license](LICENSE).
-
---- 
-
-<p align="center">
-  Made with ❤️ by <a href="https://rviewer.io">Rviewer</a>
-</p>

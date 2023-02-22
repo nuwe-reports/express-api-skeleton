@@ -1,8 +1,8 @@
 {
   "name": "express-skeleton",
   "version": "1.0.0",
-  "description": "Rviewer - Backend skeleton with Express",
-  "author": "Rviewer Team (help@rviewer.io)",
+  "description": "Nuwe - Backend skeleton with Express",
+  "author": "Hello Nuwe (hello@nuwe.io)",
   "license": "MIT",
   "scripts": {
     "start": "ts-node-dev --respawn src/server.ts",
