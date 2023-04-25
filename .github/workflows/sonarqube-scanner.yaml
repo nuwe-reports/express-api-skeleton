@@ -42,7 +42,7 @@ jobs:
               const jsonString = fs.readFileSync('./coverage.json')
               const output = JSON.parse(jsonString)
               const assertionResults = []
-              output.testResults.assertionResults.forEach((objective, i) => {
+              output.testResults[0].assertionResults.forEach((objective, i) => {
                 if (objective.status === 'passed') assertionResults.push(i)
               })
               console.log('Updating score...')
